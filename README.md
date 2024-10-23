@@ -1,4 +1,4 @@
-# Exercise 5: Copy and Rename Files  
+# Exercise 6: Copy and Rename Files  
 
 ### Reg No: 212221040020
 
